@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: utrtd4w5v-python-gitops-repository
+spec:
+  url: https://github.com/RHTAP-RHDH/utrtd4w5v-python-gitops
